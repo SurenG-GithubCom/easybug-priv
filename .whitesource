@@ -23,9 +23,9 @@
     {
     "matchHost": "https://mend.jfrog.io/artifactory/jfrogdemo-mvn-dev-local",
     "hostType": "maven",
-    "username": "sam.quakenbush@whitesourcesoftware.com",
+    "username": "mend",
     "encrypted": {
-        "token": "wcBMA8xOaBJvzJNbAQf+ONVWsaIcZ/T3ahTVejL/OhOEcrlAvKP8m8q8u+IHHnCb+X+CUlZlCSTMmyjah0on4R5qf7M2IJDQEiX6Wpb1z2q6GOlVxpeyQoh7LgX8F2+KIotIsopqcQL5gOeaZKNDMJgIvd3Xr3AYkoH+sCWomk/NQEBeE8I7a8voOmSwpzvWY3j1IQznp2a5EQggGCQIV4MlpTQdD94NFdszzrBWoEf3aZIB+/mJwuqreI99Veia3Vs5jAbRFIIrRmEIFoTJTOZAzHmCfbtRYGSudJz0M7F+9OPPlbOMurjUmZY9Rlwe+wheTRao6FSvxXoIZncbYRG56VLC/3Dt9Aqzw3L0vtKSAdEFWRLCrTo30GoLIFPmXX6XhIQfAHwjrMrZFxX73YgRfCLCe4Au+Uzhd1bndSSRs3tp8JN4zohC09Ymhavqm5LxKt2Rblq0gRDqulk6sx+AMIskxGKAq2aNGNEwEPa/2JoK0AJ5Ou/hBGwEmjZiLkAR1JQTWqxh6vJ9eOzd7vYIIwFZZ+UnGJg/IUvXvpvCzwc"
+        "password": "wcBMA8xOaBJvzJNbAQgAjFYpGVPXaWEYNKxp41Rm456EZutH+H7ieVz8fXw43yOr664TNseQGzzBOL041GeJtoukRFbsBgmclcvFHrzE9BSxNTzTWtoPgcBwuPUoUdd2V4cfRUFiVgUXhBCpq+iEAakRGObzA9ZuxsS+NrPqoweTXxZ/f0Jk5xkgozfS7W3J/q7s+QA/pIxOB7HSRgN0j+N8rXYtK29Pw2sj+5u4ui90nK7k2J15gcnGCSYCviw/GWc9H6WJERsucpv9I8RRRl3VX48bNJd3E/Qgi+61TPzOajnnEUhICoapw04lQC5NtnRIfZ/LdjOgEh7LINxlouFwys270OJJo3ED4V0modJhAZ4FnnWQwuDDcqFX+4Xv3Y0Bsi4BfDyXcha/31W5LYamhsOLLgdeLGeb34hJlUtd6Bczd6fP1S4HS0KU6euD7uoev9wZE4WxxvpHFenYF+vRWRFJAolGPOZJ2WZro8SGqg"
         }
      }
   ]
