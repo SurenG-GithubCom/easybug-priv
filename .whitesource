@@ -1,0 +1,32 @@
+{
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "projectToken": "",
+    "baseBranches": []
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "displayMode": "diff",
+    "useMendCheckNames": true
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW",
+    "issueType": "DEPENDENCY"
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    }
+  },
+ "hostRules": [
+    {
+    "matchHost": "https://mend.jfrog.io/artifactory/jfrogdemo-mvn-dev-local",
+    "hostType": "maven",
+    "username": "sam.quakenbush@whitesourcesoftware.com",
+    "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf+ONVWsaIcZ/T3ahTVejL/OhOEcrlAvKP8m8q8u+IHHnCb+X+CUlZlCSTMmyjah0on4R5qf7M2IJDQEiX6Wpb1z2q6GOlVxpeyQoh7LgX8F2+KIotIsopqcQL5gOeaZKNDMJgIvd3Xr3AYkoH+sCWomk/NQEBeE8I7a8voOmSwpzvWY3j1IQznp2a5EQggGCQIV4MlpTQdD94NFdszzrBWoEf3aZIB+/mJwuqreI99Veia3Vs5jAbRFIIrRmEIFoTJTOZAzHmCfbtRYGSudJz0M7F+9OPPlbOMurjUmZY9Rlwe+wheTRao6FSvxXoIZncbYRG56VLC/3Dt9Aqzw3L0vtKSAdEFWRLCrTo30GoLIFPmXX6XhIQfAHwjrMrZFxX73YgRfCLCe4Au+Uzhd1bndSSRs3tp8JN4zohC09Ymhavqm5LxKt2Rblq0gRDqulk6sx+AMIskxGKAq2aNGNEwEPa/2JoK0AJ5Ou/hBGwEmjZiLkAR1JQTWqxh6vJ9eOzd7vYIIwFZZ+UnGJg/IUvXvpvCzwc"
+        }
+     }
+  ]
+}
